@@ -10,7 +10,7 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Contact Us',
+        title: 'Contact',
         url: './contact',
         cName: 'nav-links'
     },
