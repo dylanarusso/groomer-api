@@ -4,6 +4,14 @@ const Gallery = () => {
         <div>
             <h1>Photos</h1>
             <p>Pictures of Business</p>
+            
+            
+            
+            
+            
+            <footer className="footer">
+                Built by DR Design
+            </footer>
         </div>
     );
 };
