@@ -1,0 +1,13 @@
+/* Instagram */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-instagram {
+    background: #3B5998;
+    color: white;
+  }
