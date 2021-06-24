@@ -1,3 +1,6 @@
+@media screen and (max-width: 370px) {
+
+
 .App {
   box-sizing: border-box;
   margin: 0;
@@ -6,13 +9,51 @@
   font-size: 25px;
 }
 
-.footer{
+.footer {
   margin-top: 1rem;
   padding: 1rem;
   background-color: lightgray;
-  position: fixed;
+  position: relative;
   bottom: 0;
   left: 0;
   width: 100%;
   text-align: center;
+}
+
+.layout {
+  text-align: center;
+}
+
+.ptitle {
+  font-size: 75px;
+}
+
+}
+
+
+.App {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 25px;
+}
+
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: lightgray;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.layout {
+  text-align: center;
+}
+
+.ptitle {
+  font-size: 75px;
 }
